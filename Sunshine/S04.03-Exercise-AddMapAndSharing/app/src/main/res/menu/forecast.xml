@@ -27,7 +27,7 @@
     <!--TODO (1) Add a menu item to open the map-->
     <item
         android:id="@+id/action_map"
-        android:title="@string/action_map"
+        android:title="Action Map"
         app:showAsAction="never" >
 
     </item>
